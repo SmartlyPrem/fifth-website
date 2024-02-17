@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    /* box-sizing: border-box; */
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+a{
+    text-decoration: inherit;
+    color: inherit;
+}
+body{
+    font-family: arial;
+}
+#first{
+    max-width: 100%;
+    height: 610px;
+    background: url(../img/banner-bg.jpg) center;
+    background-attachment: fixed;
+}
