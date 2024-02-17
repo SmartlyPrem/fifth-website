@@ -16,7 +16,7 @@ function topMenu(){
     top_menu[0].style.display = "none";
     top_menu[0].style.zIndex = "999";
     top_menu[1].style.display = "block";
-    top_menu[1].style.color = "black";
+    top_menu[1].style.color = "white";
     top_menu[1].style.zIndex = "999";
 }
 function topMenuClose(){
